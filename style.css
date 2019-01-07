@@ -1,0 +1,24 @@
+
+#nav {
+	padding: 0; margin: -40px;
+	margin-left: 1200px;
+	margin-top: 2%
+}
+#nav li {
+	display: inline;
+	word-spacing: 20px;
+	margin-right: 10px;
+}
+figcaption{
+    position:absolute;
+    top: 0px;}
+     
+figure {
+position:relative;
+	font-size: 12px;}
+.logo {
+		margin-right: 20px;
+	}
+mark .proets { <-metre le fond en gris->
+	background-color: silver;
+}
